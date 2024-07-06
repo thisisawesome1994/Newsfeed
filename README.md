@@ -47,8 +47,8 @@ python app.py
 <h3>Usage</h3>
 
 * Access the web interface at http://127.0.0.1:80/ to view and watch videos and RSS Feeds.
-* View the RSS feed for videos at http://127.0.0.1:8000/rss.
-* View the combined RSS feed for newsarticles at http://127.0.0.1:8000/mixed-rss.
+* View the RSS feed for videos at http://127.0.0.1:80/rss.
+* View the combined RSS feed for newsarticles at http://127.0.0.1:80/mixed-rss.
 
 <h3>Project Structure</h3>
 
