@@ -10,7 +10,7 @@ This project provides a Python Flask web application that automatically adds new
 <h3>Features</h3>
 
 - Automatic Video Feed: Update the feed for new YouTube videos from specified channels every hour.
-- RSS Feed Generation: Generates an RSS feed for the downloaded videos and another combined RSS feed from multiple sources.
+- RSS Feed Generation: Generates an RSS feed for the videos and another combined RSS feed from multiple sources.
 - Web Interface: Provides a web interface to view and watch youtube videos.
 
   <h3>Prerequisites</h3>
